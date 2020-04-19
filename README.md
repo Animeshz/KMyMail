@@ -38,7 +38,7 @@ Table of contents
 
 Introduction
 ------------
-Ever wondered of temporary mails, receiving messages and then disposing them? This has now been implemented in Kotlin.
+Ever wondered of temporary mails, receiving messages and then disposing them? This has now been implemented in Kotlin. Note: This uses [10minutemail](https://10minutemail.com) for the data.
 
 This library depends heavily in coroutines, providing a safe and convenient way to use this without blocking your application.
 
@@ -51,19 +51,17 @@ Here's what KMyMail serves:
 Installation
 ---
 ### Gradle
-First import jitpack.io repository.
 ```gradle
 repositories {
     maven { url 'https://jitpack.io' }
 }
 
 dependencies {
-    implementation 'com.github.Animeshz:KMyMail:1.0'
+    implementation 'com.github.Animeshz:KMyMail:v1.0'
 }
 ```
 
 ### Maven
-First import jitpack.io repository.
 ```xml
 <repositories>
     ...
@@ -77,7 +75,7 @@ First import jitpack.io repository.
     <dependency>
         <groupId>com.github.Animeshz</groupId>
         <artifactId>KMyMail</artifactId>
-        <version>1.0</version>
+        <version>v1.0</version>
     </dependency>
 </dependencies>
 ```
