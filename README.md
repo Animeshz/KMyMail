@@ -1,5 +1,8 @@
 KMyMail
 =======
+
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/ba28a2d65194429ca37e3b3ce7a217e7)](https://app.codacy.com/manual/Animeshz/KMyMail?utm_source=github.com&utm_medium=referral&utm_content=Animeshz/KMyMail&utm_campaign=Badge_Grade_Dashboard)
+
 <p align="center">
     <img src="https://img.shields.io/github/languages/code-size/Animeshz/KMyMail?style=flat-square" alt="Code Size"/>
     <a href="https://jitpack.io/#Animeshz/KMyMail">
